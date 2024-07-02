@@ -21,7 +21,7 @@ Highly skilled Backend-Fullstack Developer with extensive experience in Python, 
 ## Technical Skills
 
 - **Languages & Frameworks:** Python, Django, JavaScript, HTML, CSS
-- **Libraries & APIs:** Aiogram (2.25), PyTelegramBotApi
+- **Libraries & APIs:** Aiogram (2.25), PyTelegramBotApi, PyTorch, PyCUDA
 - **Databases:** PostgreSQL, SQLite
 - **Tools & Platforms:** Linux OS Shell, server deployment on Linux, Git
 - **Other Skills:** AI, UI/UX, Marketing, Sound Engineering: ( [Beatstars](https://www.beatstars.com/coldapril) ), ( [Youtube](https://www.youtube.com/channel/UCn9UYMg1JTl8g2dM0Qrrg4A) ), ( [VK](https://vk.com/prod.cold_april) )
