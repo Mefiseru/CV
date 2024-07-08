@@ -31,8 +31,8 @@ Highly skilled Backend-Fullstack Developer with extensive experience in Python, 
 ## Languages
 
 - Russian (Native)
-- Spanish (Native)
-- English (Very high, close to native)
+- Spanish (Fluent)
+- English (Fluent)
 
 ---
 
@@ -40,7 +40,7 @@ Highly skilled Backend-Fullstack Developer with extensive experience in Python, 
 
 ### Backend-Fullstack Developer
 
-**POTOK VPN** | Freelance | [ 10/04/2024-currently ]  **[Bot Link](https://t.me/potokVPN_bot)**
+**POTOK VPN** | Contractor | [ 10/04/2024-currently ]  **[Bot Link](https://t.me/potokVPN_bot)**
 - Developed a fully modular and custom VPN with a focus on performance and security.
 - Utilized Django for backend development and PostgreSQL for database management.
 - Implemented Linux OS Shell scripts for server deployment and management.
@@ -49,7 +49,7 @@ Highly skilled Backend-Fullstack Developer with extensive experience in Python, 
 
 ### Lead Developer
 
-**POTOK GPT** | Freelance | [ 10/04/2024-currently ]  
+**POTOK GPT** | Contractor | [ 10/04/2024-currently ]  
 - Designed a modular project aimed at optimizing performance and user experience in Telegram.
 - Leveraged existing components from POTOK VPN to streamline development.
 - Planned to integrate ChatGPT API for enhanced AI capabilities.
@@ -58,7 +58,7 @@ Highly skilled Backend-Fullstack Developer with extensive experience in Python, 
 
 ### Developer
 
-**Crypto (Development Name)** | Freelance | [ 23/05/2024-currently ]  
+**Crypto (Development Name)** | Contractor | [ 23/05/2024-currently ]  
 - Designed a modular crypto project with a focus on a simple, user-friendly interface.
 - Planned to incorporate CryptoBot ticket payments and Telegram STARS for a seamless user experience.
 - Ensured effective version control and team collaboration with Git.
@@ -73,13 +73,6 @@ Highly skilled Backend-Fullstack Developer with extensive experience in Python, 
 - Effective and comprehensive communicator
 - Strong leadership and project design skills
 - Highly communicative and able to establish common ground with diverse individuals
-
----
-
-## Availability
-
-- Available for part-time work during the second part of the day
-- Open to remote work from home
 
 ---
 
