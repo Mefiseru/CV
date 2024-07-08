@@ -31,8 +31,8 @@ Highly skilled Backend-Fullstack Developer with extensive experience in Python, 
 ## Languages
 
 - Russian (Native)
-- Spanish (Native)
-- English (Very high, close to native)
+- Spanish (Fluent)
+- English (Fluent)
 
 ---
 
