@@ -8,7 +8,7 @@
 
 ## Objective
 
-Aspiring to join as a Backend Developer, leveraging my expertise in Python, Django, and server deployment to contribute to innovative modular solutions. Passionate about AI, sound engineering, and enhancing user experiences through robust and scalable backend systems. Seeking a part-time role, available for the second part of the day, working remotely from home.
+Aspiring to join as a Backend Developer, leveraging my expertise in Python, Django, and server deployment to contribute to innovative modular solutions. Passionate about AI, sound engineering, and enhancing user experiences through robust and scalable backend systems. Seeking a part-time role, working remotely from home.
 
 ---
 
