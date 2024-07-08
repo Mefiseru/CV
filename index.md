@@ -68,13 +68,6 @@ Highly skilled Backend-Fullstack Developer with extensive experience in Python, 
 
 ---
 
-## Education
-
-**IES Serra D'Espada la ESO**  
-Not graduated (final 4 de ESO)
-
----
-
 ## Soft Skills
 
 - Effective and comprehensive communicator
