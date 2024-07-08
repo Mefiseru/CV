@@ -14,7 +14,7 @@ Aspiring to join as a Backend Developer, leveraging my expertise in Python, Djan
 
 ## Professional Summary
 
-Highly skilled Backend-Fullstack Developer with extensive experience in Python, Django, and server deployment on Linux. Adept at building modular, high-performance applications and leading projects to successful completion. Excellent communication and leadership skills, with a proven ability to collaborate and find common ground with diverse teams. Familiar with Git for efficient version control and collaboration. Currently focusing on AI integration and secure, user-friendly software solutions.
+Highly skilled Backend-Fullstack Developer with extensive 6 years of experience in Python, Django, and server deployment on Linux. Adept at building modular, high-performance applications and leading projects to successful completion. Excellent communication and leadership skills, with a proven ability to collaborate and find common ground with diverse teams. Familiar with Git for efficient version control and collaboration. Currently focusing on AI integration and secure, user-friendly software solutions.
 
 ---
 
