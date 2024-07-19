@@ -64,8 +64,6 @@ Highly skilled Backend-Fullstack Developer with extensive 6 years of experience 
 - Ensured effective version control and team collaboration with Git.
 - **Designing phase**
 
-**Note:** The projects I am currently working on cannot be publicly shared on GitHub due to my boss's request. However, I can provide access to private repositories upon request.
-
 ---
 
 ## Soft Skills
