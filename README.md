@@ -40,7 +40,7 @@ Highly skilled Backend-Fullstack Developer with extensive 6 years of experience 
 
 ### Backend-Fullstack Developer
 
-**POTOK VPN** | Contractor | [ 10/04/2024-currently ]  **[Bot Link](https://t.me/potokVPN_bot)**
+**POTOK VPN** | Contractor | [ 10/04/2024-currently ]  **[Bot Link](https://t.me/potokVPN_bot)** **[Telegram/Django/Backend SOURCES](https://github.com/hayashidevs/potokvpn-backend)** **[Website SOURCES](https://github.com/hayashidevs/potokyou-website)**
 - Developed a fully modular and custom VPN with a focus on performance and security.
 - Utilized Django for backend development and PostgreSQL for database management.
 - Implemented Linux OS Shell scripts for server deployment and management.
