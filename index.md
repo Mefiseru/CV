@@ -25,7 +25,6 @@ Highly skilled Backend-Fullstack Developer with extensive 6 years of experience 
 - **Databases:** PostgreSQL, SQLite
 - **Tools & Platforms:** Linux OS Shell, server deployment on Linux, Git
 - **Other Skills:** AI, UI/UX, Marketing, Sound Producing
-
 ---
 
 ## Languages
